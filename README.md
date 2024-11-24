@@ -1,9 +1,12 @@
 ## Hi there 👋
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinganLiu&layout=compact&show_icons=true" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=JinganLiu&show_icons=ture" />
+<p align="center"> 
+  <img alt="Top Langs" vertical-align="top" width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinganLiu&count_private=true&layout=compact&show_icons=truek&theme=shadow_green" />
+  
+  <img alt="github stats" vertical-align="top" width="45%" src="https://github-readme-stats.vercel.app/api?username=JinganLiu&&show_icons=ture&theme=shadow_green" />
 </p>
+
+
 
 <!--
 **JinganLiu/JinganLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
