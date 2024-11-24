@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <p align="center"> 
   <img alt="Top Langs" vertical-align="top" width="35.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinganLiu&count_private=true&layout=compact&show_icons=truek&theme=shadow_green" />
   
